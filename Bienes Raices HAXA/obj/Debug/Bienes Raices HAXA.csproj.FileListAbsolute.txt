@@ -90,6 +90,7 @@ D:\Universidad\Vll\DiseñoDesarrolloSistemas\Analis2-Git-Proyecto\Analisis2-Desa
 D:\Universidad\Vll\DiseñoDesarrolloSistemas\Analis2-Git-Proyecto\Analisis2-Desarrollo\Bienes Raices HAXA\bin\es\System.Web.WebPages.resources.dll
 D:\Universidad\Vll\DiseñoDesarrolloSistemas\Analis2-Git-Proyecto\Analisis2-Desarrollo\Bienes Raices HAXA\bin\es\System.Web.WebPages.Deployment.resources.dll
 D:\Universidad\Vll\DiseñoDesarrolloSistemas\Analis2-Git-Proyecto\Analisis2-Desarrollo\Bienes Raices HAXA\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\Universidad\Vll\DiseñoDesarrolloSistemas\Analis2-Git-Proyecto\Analisis2-Desarrollo\Bienes Raices HAXA\obj\Debug\Bienes Raices HAXA.csproj.AssemblyReference.cache
 D:\Universidad\Vll\DiseñoDesarrolloSistemas\Analis2-Git-Proyecto\Analisis2-Desarrollo\Bienes Raices HAXA\obj\Debug\Bienes Raices HAXA.csproj.CoreCompileInputs.cache
 D:\Universidad\Vll\DiseñoDesarrolloSistemas\Analis2-Git-Proyecto\Analisis2-Desarrollo\Bienes Raices HAXA\obj\Debug\Bienes Raices HAXA.csproj.CopyComplete
 D:\Universidad\Vll\DiseñoDesarrolloSistemas\Analis2-Git-Proyecto\Analisis2-Desarrollo\Bienes Raices HAXA\obj\Debug\Bienes Raices HAXA.dll
